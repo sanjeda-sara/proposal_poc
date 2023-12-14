@@ -1,0 +1,148 @@
+{
+  "coverPage": {
+    "title": "Proposal for [Type of Services]",
+    "proposedBy": "[Your Company Name]"
+  },
+  "logo": true,
+  "dataUsageRestrictions": {
+    "confidentiality": true,
+    "usageRestrictions": true
+  },
+  "introduction": {
+    "aboutUs": {
+      "companyProfile": "[Brief description of your company]",
+      "servicesOffered": "[List of Services]"
+    },
+    "ourClients": {
+      "clientList": [
+        "[Client 1]",
+        "[Client 2]"
+      ]
+    }
+  },
+  "projectOverview": {
+    "projectTitle": "[Project Title]",
+    "briefSummary": "[Brief summary of the project]",
+    "objectives": "[Project objectives and goals]"
+  },
+  "contactInformation": {
+    "address": "[Your Company Address]",
+    "hotline": "[Your Hotline]",
+    "phoneNumber": "[Your Phone Number]",
+    "email": "[Your Email]",
+    "website": "[Your Website]",
+    "referenceNumber": "[Your Reference Number]",
+    "submissionDate": "[Submission Date]",
+    "forFurtherInquiries": {
+      "contactPerson": "[Contact Person]",
+      "email": "[Contact Person's Email]",
+      "phone": "[Contact Person's Phone]"
+    }
+  },
+  "tableOfContents": true,
+  "executiveSummary": {
+    "summary": "[Concise summary of the proposal]"
+  },
+  "backgroundAndExperience": {
+    "companyOverview": "[Detailed overview of your company]",
+    "affiliations": "[Relevant affiliations and partnerships]"
+  },
+  "whyChooseUs": {
+    "team": "[Description of your certified and experienced team members]",
+    "technologies": "[Description of the cutting-edge technologies you use]",
+    "methodologies": "[Description of your adopted best practices and methodologies]",
+    "experience": "[Description of your proven track record and diverse project experiences]"
+  },
+  "clientRequirements": {
+    "detailedRequirements": "[Detailed analysis of client requirements]"
+  },
+  "uniqueSellingProposition": {
+    "whatSetsUsApart": "[Description of what sets your company apart]"
+  },
+  "scopeOfWork": {
+    "serviceDescription": "[Detailed description of the services to be provided]",
+    "constraints": "[Any exclusions or constraints involved in the project]"
+  },
+  "projectTeam": {
+    "teamMembers": [
+      "[Team Member 1 - Role]",
+      "[Team Member 2 - Role]",
+      "[Team Member 3 - Role]"
+    ],
+    "projectManagementApproach": "[Description of your project management approach]"
+  },
+  "projectSchedule": {
+    "phases": true,
+    "milestones": true,
+    "timeline": {
+      "[Week_1]": "[Activities for Week 1]",
+      "[Week_2_4]": "[Activities for Weeks 2-4]",
+      "[Week_5_12]": "[Activities for Weeks 5-12]",
+      "[Week_13_24]": "[Activities for Weeks 13-24]",
+      "[Week_25_30]": "[Activities for Weeks 25-30]",
+      "[Week_31_32]": "[Activities for Weeks 31-32]",
+      "[Week_33_36]": "[Activities for Weeks 33-36]",
+      "[Week_37_52]": "[Activities for Weeks 37-52]"
+    }
+  },
+  "pricingAndPayment": {
+    "serviceDetails": "[Detailed breakdown of the project cost and payment details]",
+    "estimatedProjectCost": "[Estimated Project Cost]",
+    "breakdownOfCosts": {
+      "item1": "[Cost for Item 1]",
+      "item2": "[Cost for Item 2]",
+      "item3": "[Cost for Item 3]"
+    },
+    "taxExemption": "[Details of Tax Exemption]"
+  },
+  "termsAndConditions": {
+    "uptimeCommitment": "[Details of Uptime Commitment]",
+    "dataSafetyCommitment": "[Details of Data Safety Commitment]",
+    "securityCommitment": "[Details of Security Commitment]",
+    "maintenanceCommitment": "[Details of Maintenance Commitment]",
+    "terminationPolicy": "[Details of Termination Policy]",
+    "priceInclusions": "[Details of Price Inclusions]",
+    "additionalRequirements": "[Details of Additional Requirements]",
+    "keyAccountManager": "[Details of Key Account Manager Appointment]",
+    "vendorPriceChanges": "[Details of Vendor Price Changes Policy]",
+    "advancePaymentRequirement": "[Details of Advance Payment Requirement]"
+  },
+  "technicalSpecifications": {
+    "systemSpecifications": "[Details of System Specifications]",
+    "infrastructureDiagram": "[Details of Infrastructure Diagram]",
+    "hardwareSpecifications": "[Details of Hardware Specifications]",
+    "proposedSolutionArchitecture": "[Details of Proposed Solution Architecture]",
+    "serverSSLSpecifications": "[Details of Server and SSL Specifications]"
+  },
+  "serviceDeliveryPolicies": {
+    "processInitiation": "[Details of Process Initiation]",
+    "timeframe": "[Details of Timeframe for Service Delivery]"
+  },
+  "testingAndQualityAssurance": {
+    "testingMethodologies": "[Details of Testing Methodologies]",
+    "securityMeasures": "[Details of Security Measures]",
+    "SLASupportPlan": "[Details of SLA and Support Plan]"
+  },
+  "serviceWarrantyAndSupport": {
+    "warrantyAndSupportTerms": "[Details of Warranty and Support Terms]"
+  },
+  "liability": {
+    "companyResponsibilityConditions": "[Details of Company's Responsibility Conditions]"
+  },
+  "benefitsAndOutcomes": {
+    "positiveOutcomes": "[Anticipated benefits and positive outcomes of the project]"
+  },
+  "riskAssessment": {
+    "identificationOfRisks": "[Potential risks associated with the project]",
+    "mitigationStrategies": "[Strategies for mitigating identified risks]"
+  },
+  "referencesTestimonials": {
+    "clientReferences": "[Availability of client references upon request]"
+  },
+  "ethicalConsideration": {
+    "ethicalCompliance": "[Details of Ethical Compliance]"
+  },
+  "conclusion": {
+    "closureAndSummary": "[Concluding statement summarizing the key aspects of the proposal]"
+  }
+}

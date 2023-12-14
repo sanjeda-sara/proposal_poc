@@ -1,0 +1,141 @@
+{
+    "coverPage": {
+      "title": "",
+      "proposedBy": ""
+    },
+    "logo": "",
+    "dataUsageRestrictions": {
+      "confidentiality": "",
+      "usageRestrictions": ""
+    },
+    "introduction": {
+      "aboutUs": {
+        "companyProfile": "",
+        "servicesOffered": ""
+      },
+      "ourClients": {
+        "clientList": []
+      }
+    },
+    "projectOverview": {
+      "projectTitle": "",
+      "briefSummary": "",
+      "objectives": ""
+    },
+    "contactInformation": {
+      "address": "",
+      "hotline": "",
+      "phoneNumber": "",
+      "email": "",
+      "website": "",
+      "referenceNumber": "",
+      "submissionDate": "",
+      "forFurtherInquiries": {
+        "contactPerson": "",
+        "email": "",
+        "phone": ""
+      }
+    },
+    "tableOfContents": "",
+    "executiveSummary": {
+      "summary": ""
+    },
+    "backgroundAndExperience": {
+      "companyOverview": "",
+      "affiliations": ""
+    },
+    "whyChooseUs": {
+      "team": "",
+      "technologies": "",
+      "methodologies": "",
+      "experience": ""
+    },
+    "clientRequirements": {
+      "detailedRequirements": ""
+    },
+    "uniqueSellingProposition": {
+      "whatSetsUsApart": ""
+    },
+    "scopeOfWork": {
+      "serviceDescription": "",
+      "constraints": ""
+    },
+    "projectTeam": {
+      "teamMembers": [],
+      "projectManagementApproach": ""
+    },
+    "projectSchedule": {
+      "phases": "",
+      "milestones": "",
+      "timeline": {
+        "[Week_1]": "",
+        "[Week_2_4]": "",
+        "[Week_5_12]": "",
+        "[Week_13_24]": "",
+        "[Week_25_30]": "",
+        "[Week_31_32]": "",
+        "[Week_33_36]": "",
+        "[Week_37_52]": ""
+      }
+    },
+    "pricingAndPayment": {
+      "serviceDetails": "",
+      "estimatedProjectCost": "",
+      "breakdownOfCosts": {
+        "item1": "",
+        "item2": "",
+        "item3": ""
+      },
+      "taxExemption": ""
+    },
+    "termsAndConditions": {
+      "uptimeCommitment": "",
+      "dataSafetyCommitment": "",
+      "securityCommitment": "",
+      "maintenanceCommitment": "",
+      "terminationPolicy": "",
+      "priceInclusions": "",
+      "additionalRequirements": "",
+      "keyAccountManager": "",
+      "vendorPriceChanges": "",
+      "advancePaymentRequirement": ""
+    },
+    "technicalSpecifications": {
+      "systemSpecifications": "",
+      "infrastructureDiagram": "",
+      "hardwareSpecifications": "",
+      "proposedSolutionArchitecture": "",
+      "serverSSLSpecifications": ""
+    },
+    "serviceDeliveryPolicies": {
+      "processInitiation": "",
+      "timeframe": ""
+    },
+    "testingAndQualityAssurance": {
+      "testingMethodologies": "",
+      "securityMeasures": "",
+      "SLASupportPlan": ""
+    },
+    "serviceWarrantyAndSupport": {
+      "warrantyAndSupportTerms": ""
+    },
+    "liability": {
+      "companyResponsibilityConditions": ""
+    },
+    "benefitsAndOutcomes": {
+      "positiveOutcomes": ""
+    },
+    "riskAssessment": {
+      "identificationOfRisks": "",
+      "mitigationStrategies": ""
+    },
+    "referencesTestimonials": {
+      "clientReferences": ""
+    },
+    "ethicalConsideration": {
+      "ethicalCompliance": ""
+    },
+    "conclusion": {
+      "closureAndSummary": ""
+    }
+  }
